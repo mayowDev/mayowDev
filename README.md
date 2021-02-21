@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-I'm Mayow dev a front end developer currently working at [superbright](https://http://www.superbright.me/). I love learning new techniques languages and trying out new tools. I'm currently enjoying the [React js world](https://reactjs.org/) and JS  in general.
+I'm Mayow, a front end/full-stack developer currently working at [superbright](https://http://www.superbright.me/). I love learning new tech and trying out new tools. I'm currently enjoying the [React js world](https://reactjs.org/) and JS  in general.
 
 What i am about?:
 
 - 🔭 I’m currently working on  [Vortic VR ](https://vorticxr.com/)
-- 🌱 I’m learning [Node js](https://nodejs.org/en/), with [GraphQL](https://graphql.org/) and [AWS ](https://aws.amazon.com/)
+- 🌱 I’m learning [GraphQL](https://graphql.org/) and [AWS ](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on mostly  anything related to React js and Node js.
-- 🤔 looking for remote Front-end or junior Full-stack role at end of 2021
+- 🤔 looking for remote Front-end or Full-stack Opportunities.
 
 
 ### Me around the web
