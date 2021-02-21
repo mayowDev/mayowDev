@@ -6,15 +6,14 @@ I'm Mayow dev a front end developer currently working at [superbright](https://h
 What i am about?:
 
 - 🔭 I’m currently working on  [Vortic VR ](https://vorticxr.com/)
-- 🌱 I’m currently learning [Node js](https://nodejs.org/en/) and [AWS ](https://aws.amazon.com/)
+- 🌱 I’m learning [Node js](https://nodejs.org/en/), with [GraphQL](https://graphql.org/) and [AWS ](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on mostly  anything related to React js and Node js.
-- 🤔 I’m looking for remote Front-end or junior Full-stack role in 2021
+- 🤔 looking for remote Front-end or junior Full-stack role at end of 2021
 
-- ⚡ Fun fact: I'm  addidceted to Footbal(Not The American football)
 
 ### Me around the web
 
-- :file_folder: My projects [Github ](https://github.com/mayowDev/)
+- :file_folder: Personal projects [Github ](https://github.com/mayowDev/)
 - :mailbox: Contact me : [GMail ](mayowDev@gmail.com)
 - 🐦 Follow me on [Twitter](https://twitter.com/mayowdev)
 
