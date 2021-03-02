@@ -14,8 +14,8 @@ Main stack :star:
 
 - :meat_on_bone: React and Redux
 - :green_salad: Typescript
-- :rice: NodeJS / Express
-- :hamburger: Postgres / MongoDB
+- :rice: NodeJS and Express
+- :hamburger: PostgreSQL / MongoDB
 
 ### Me around the web
 
