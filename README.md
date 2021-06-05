@@ -8,7 +8,6 @@ What i am about?:
 - 🔭 I’m currently working on  [Vortic VR ](https://vorticxr.com/)
 - 🌱 I’m learning [GraphQL](https://graphql.org/) and [AWS ](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on mostly  anything related to React js and Node js.
-- 🤔 looking for remote Front-end or Full-stack Opportunities.
 
 Main stack :star:
 
