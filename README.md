@@ -18,7 +18,6 @@ Main stack :star:
 
 ### Me around the web
 
-- :file_folder: Personal projects [Github ](https://github.com/mayowDev/)
+- :file_folder: Personal [Portfolio ](https://www.mayowdev.com/)
 - :mailbox: Contact : [GMail ](mayowDev@gmail.com)
-- 🐦 Follow me on [Twitter](https://twitter.com/mayowdev)
 
