@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Mayow, a front end/full-stack developer currently working at [superbright](https://http://www.superbright.me/). I love learning new tech and trying out new tools. I'm currently enjoying [JavaScript world](https://reactjs.org/) and JS  in general.
+I'm Mayow, a front end/full-stack developer currently working at [superbright](https://http://www.superbright.me/). I love learning new tech and trying out new tools. I'm currently enjoying [React](https://reactjs.org/) world and JS  in general.
 
 What i am about?:
 
