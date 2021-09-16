@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Mayow, a Full-stack developer with 2 years of experience, i'm currently working at [superbright](https://http://www.superbright.me/). 
+I'm Mayow, a Full-stack developer with 3 years of experience, i'm currently working at [superbright](https://http://www.superbright.me/). 
 I love learning new tech and trying out new tools. I'm currently working with [React](https://reactjs.org/), [Grqphql](https://graphql.org) and [Nodejs](https://nodejs.org/en/).
 
 What i am about?:
