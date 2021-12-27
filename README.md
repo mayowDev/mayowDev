@@ -7,7 +7,6 @@ I love learning new tech and trying out new tools. I'm currently working with [R
 What i am about?:
 
 - 🔭 I’m currently working on  [Vortic VR ](https://vorticxr.com/)
-- 🌱 I’m learning [AWS ](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on mostly  anything related to React js and Node js.
 
 Main stack :star:
