@@ -1,17 +1,13 @@
 ### Hi there 👋
 
 
-I'm Mayow, a Full-stack developer with 3 years of experience, i'm currently working at [superbright](https://http://www.superbright.me/). 
-I love learning new tech and trying out new tools. I'm currently working with [React](https://reactjs.org/), [Grqphql](https://graphql.org) and [Nodejs](https://nodejs.org/en/).
+I'm Mayow, a Full-stack JavaScript developer with 3 years of experience. I love learning new tech and trying out new tools.
 
-What i am about?:
-
-- 🔭 I’m currently working on  [Vortic VR ](https://vorticxr.com/)
-- 👯 I’m looking to collaborate on mostly  anything related to React js and Node js.
+I'm currently taking new freelance projects, so feel free to reach out.
 
 Main stack :star:
 
-- :meat_on_bone: React and Redux
+- :meat_on_bone: React/Nextjs and Redux
 - :green_salad: Typescript and Grphql
 - :rice: NodeJS and Express
 - :hamburger: PostgreSQL / MongoDB
