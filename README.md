@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I'm Mayow, a Full-stack JavaScript developer with 3 years of experience. I love learning new tech and trying out new tools.
+I'm Mayow, a Full-stack JavaScript developer with 4 years of experience. I love learning new tech and trying out new tools.
 
-I'm currently taking new freelance projects, so feel free to reach out.
+I'm currently taking new opportunities, so feel free to reach out.
 
 Main stack :star:
 
